@@ -4,9 +4,8 @@
 ```
 main.py --preprocess --data <dataset>
 ```
-Note that <dataset> is the name of any dataset folder in the ./data directory. 
   
-The datasets can be downloaded from the original literatures.
+The datasets can be downloaded from the original literatures and placed under the ./data directory.
 
 
 ## Train models
