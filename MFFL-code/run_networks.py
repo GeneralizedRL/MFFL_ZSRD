@@ -1,3 +1,9 @@
+'''
+The source code references:
+[MultiHopKG] Multi-Hop Knowledge Graph Reasoning with Reward Shaping
+[OpenLongTailRecognition-OLTR] Large-Scale Long-Tailed Recognition in an Open World
+'''
+
 import copy
 import os
 import torch.nn as nn
