@@ -1,3 +1,6 @@
+'''
+The source code references [MultiHopKG](https://github.com/salesforce/MultiHopKG) and [OpenLongTailRecognition-OLTR](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
+'''
 import pprint
 from util import dataloader, data_utils as data_utils
 from run_networks import model
